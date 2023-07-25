@@ -1,0 +1,5 @@
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Repository\obj\Debug\net7.0\BASE.Repository.csproj.AssemblyReference.cache
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Repository\obj\Debug\net7.0\BASE.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Repository\obj\Debug\net7.0\BASE.Repository.AssemblyInfoInputs.cache
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Repository\obj\Debug\net7.0\BASE.Repository.AssemblyInfo.cs
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Repository\obj\Debug\net7.0\BASE.Repository.csproj.CoreCompileInputs.cache

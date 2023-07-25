@@ -1,0 +1,12 @@
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\bin\Debug\net7.0\BASE.Model.deps.json
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\bin\Debug\net7.0\BASE.Model.dll
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\bin\Debug\net7.0\BASE.Model.pdb
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.csproj.AssemblyReference.cache
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.AssemblyInfoInputs.cache
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.AssemblyInfo.cs
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.csproj.CoreCompileInputs.cache
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.dll
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\refint\BASE.Model.dll
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\BASE.Model.pdb
+C:\Users\Viet Nguyen\Desktop\Courses\TDDWithIoC\BASE.Model\obj\Debug\net7.0\ref\BASE.Model.dll

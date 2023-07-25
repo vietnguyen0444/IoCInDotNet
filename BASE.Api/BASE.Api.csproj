@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.9" />
+    <PackageReference Include="SimpleInjector" Version="5.4.1" />
+    <PackageReference Include="SimpleInjector.Extensions.ExecutionContextScoping" Version="4.0.0" />
+    <PackageReference Include="SimpleInjector.Integration.AspNetCore" Version="5.4.0" />
+    <PackageReference Include="SimpleInjector.Integration.Web" Version="5.0.0" />
+    <PackageReference Include="SimpleInjector.Integration.WebApi" Version="5.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BASE.Model.EF\BASE.Model.EF.csproj" />
+    <ProjectReference Include="..\BASE.Model\BASE.Model.csproj" />
+    <ProjectReference Include="..\BASE.Repository\BASE.Repository.csproj" />
+    <ProjectReference Include="..\BASE.Service\BASE.Service.csproj" />
+    <ProjectReference Include="..\BASE.Utilities\BASE.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
